@@ -26,21 +26,55 @@
             width: 59px;
             height: 68px;
         }
+        
         </style>
 </head>
+    
 <body style="height: 656px; background-color:lightblue;">
-        <div style="height: 130px; font-family: 'Arial Black'; background-color: lightgreen; margin-top: 0px;">
-           <center> <img alt="Please Wait" class="auto-style1" src="Image/logo1.png" /><br/>
+        <div style="height: 102px; font-family: 'Arial Black'; background-color: #63c132; margin-top: 0px;">
+        <center style="height: 100px">
+            <img alt="Please Wait" class="auto-style1" src="Image/logo1.png" /><br/>
             Reference Book of BCOM ,BMS ,BSCIT ,BBI And BAF <br />
-            <a href="WebForm2.aspx"><input id="button" type="button" value="FY" /></a>
-            <a href="WebForm3.aspx"><input id="Button1" type="button" value="SY" /></a>
-            <a href="WebForm4.aspx"><input id="Button2" type="button" value="TY" /></a></center><br />
-            <div style="height: 206px; margin-top: 0px">
-            <left><img alt="" src="" style="height: 201px; width: 153px" /></left>&nbsp;&nbsp;&nbsp;
-            <a href=""><input id="Button3" type="button" value="Download" /></a></div>
+            </center>
             
-            <br />
+    <div style="height: 26px; background-color: #75d193";>
+        &nbsp;
+        <a href="WebForm2.aspx">
+        <input id="button" type="button" value="FY" /></a>&nbsp;
+            <a href="WebForm3.aspx">
+        <input id="Button1" type="button" value="SY" /></a>&nbsp;
+            <a href="WebForm4.aspx">
+        <input id="Button2" type="button" value="TY" /></a></div>
             
-            </div>
-        </body>
+        <center><table>  <tr>  
+                <td>
+            <img alt="" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> DIGITAL ELECTRONICS<br />    
+            <a href="">Download</a>
+    </td>
+    <td>
+        <img alt="" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> DIGITAL ELECTRONICS<br />    
+            <input id="Button4" type="button" value="button" />
+        </td>
+            <td>
+        <img alt="" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> DIGITAL ELECTRONICS<br />    
+            <input id="Button5" type="button" value="button" />
+        </td>
+                         </tr>
+            <tr>  
+                <td>
+            <img alt="" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> DIGITAL ELECTRONICS<br />    
+            <input id="Button6" type="button" value="button" />
+    </td>
+    <td>
+        <img alt="" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> DIGITAL ELECTRONICS<br />    
+            <input id="Button7" type="button" value="button" />
+        </td>
+            <td>
+        <img alt="" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> DIGITAL ELECTRONICS<br />    
+            <input id="Button8" type="button" value="button" />
+        </td>
+                         </tr>
+                </table></center>
+         </div>
+                         </body>
 </html>
