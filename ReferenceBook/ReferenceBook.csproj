@@ -126,10 +126,25 @@
     <Content Include="Content\bootstrap-theme.css.map" />
     <Content Include="Image\logo1.png" />
     <Content Include="Image\background.png" />
-    <Content Include="WebForm1.aspx" />
-    <Content Include="WebForm2.aspx" />
-    <Content Include="WebForm3.aspx" />
-    <Content Include="WebForm4.aspx" />
+    <Content Include="Home.aspx" />
+    <Content Include="First_Year.aspx" />
+    <Content Include="Second_Year.aspx" />
+    <Content Include="Third_Year.aspx" />
+    <Content Include="FY_BSCIT.aspx" />
+    <Content Include="SY_BSCIT.aspx" />
+    <Content Include="SY_BMS.aspx" />
+    <Content Include="SY_BCOM.aspx" />
+    <Content Include="SY_BAF.aspx" />
+    <Content Include="SY_BBI.aspx" />
+    <Content Include="TY_BSCIT.aspx" />
+    <Content Include="TY_BBI.aspx" />
+    <Content Include="TY_BMS.aspx" />
+    <Content Include="TY_BCOM.aspx" />
+    <Content Include="TY_BAF.aspx" />
+    <Content Include="FY_BMS.aspx" />
+    <Content Include="FY_BCOM.aspx" />
+    <Content Include="FY_BAF.aspx" />
+    <Content Include="FY_BBI.aspx" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -214,33 +229,138 @@
     <Compile Include="ViewSwitcher.ascx.designer.cs">
       <DependentUpon>ViewSwitcher.ascx</DependentUpon>
     </Compile>
-    <Compile Include="WebForm1.aspx.cs">
-      <DependentUpon>WebForm1.aspx</DependentUpon>
+    <Compile Include="Home.aspx.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="WebForm1.aspx.designer.cs">
-      <DependentUpon>WebForm1.aspx</DependentUpon>
+    <Compile Include="Home.aspx.designer.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
     </Compile>
-    <Compile Include="WebForm2.aspx.cs">
-      <DependentUpon>WebForm2.aspx</DependentUpon>
+    <Compile Include="First_Year.aspx.cs">
+      <DependentUpon>First_Year.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="WebForm2.aspx.designer.cs">
-      <DependentUpon>WebForm2.aspx</DependentUpon>
+    <Compile Include="First_Year.aspx.designer.cs">
+      <DependentUpon>First_Year.aspx</DependentUpon>
     </Compile>
-    <Compile Include="WebForm3.aspx.cs">
-      <DependentUpon>WebForm3.aspx</DependentUpon>
+    <Compile Include="Second_Year.aspx.cs">
+      <DependentUpon>Second_Year.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="WebForm3.aspx.designer.cs">
-      <DependentUpon>WebForm3.aspx</DependentUpon>
+    <Compile Include="Second_Year.aspx.designer.cs">
+      <DependentUpon>Second_Year.aspx</DependentUpon>
     </Compile>
-    <Compile Include="WebForm4.aspx.cs">
-      <DependentUpon>WebForm4.aspx</DependentUpon>
+    <Compile Include="Third_Year.aspx.cs">
+      <DependentUpon>Third_Year.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="WebForm4.aspx.designer.cs">
-      <DependentUpon>WebForm4.aspx</DependentUpon>
+    <Compile Include="Third_Year.aspx.designer.cs">
+      <DependentUpon>Third_Year.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FY_BSCIT.aspx.cs">
+      <DependentUpon>FY_BSCIT.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FY_BSCIT.aspx.designer.cs">
+      <DependentUpon>FY_BSCIT.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SY_BSCIT.aspx.cs">
+      <DependentUpon>SY_BSCIT.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SY_BSCIT.aspx.designer.cs">
+      <DependentUpon>SY_BSCIT.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SY_BMS.aspx.cs">
+      <DependentUpon>SY_BMS.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SY_BMS.aspx.designer.cs">
+      <DependentUpon>SY_BMS.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SY_BCOM.aspx.cs">
+      <DependentUpon>SY_BCOM.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SY_BCOM.aspx.designer.cs">
+      <DependentUpon>SY_BCOM.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SY_BAF.aspx.cs">
+      <DependentUpon>SY_BAF.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SY_BAF.aspx.designer.cs">
+      <DependentUpon>SY_BAF.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SY_BBI.aspx.cs">
+      <DependentUpon>SY_BBI.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SY_BBI.aspx.designer.cs">
+      <DependentUpon>SY_BBI.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TY_BSCIT.aspx.cs">
+      <DependentUpon>TY_BSCIT.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TY_BSCIT.aspx.designer.cs">
+      <DependentUpon>TY_BSCIT.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TY_BBI.aspx.cs">
+      <DependentUpon>TY_BBI.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TY_BBI.aspx.designer.cs">
+      <DependentUpon>TY_BBI.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TY_BMS.aspx.cs">
+      <DependentUpon>TY_BMS.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TY_BMS.aspx.designer.cs">
+      <DependentUpon>TY_BMS.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TY_BCOM.aspx.cs">
+      <DependentUpon>TY_BCOM.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TY_BCOM.aspx.designer.cs">
+      <DependentUpon>TY_BCOM.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TY_BAF.aspx.cs">
+      <DependentUpon>TY_BAF.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TY_BAF.aspx.designer.cs">
+      <DependentUpon>TY_BAF.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FY_BMS.aspx.cs">
+      <DependentUpon>FY_BMS.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FY_BMS.aspx.designer.cs">
+      <DependentUpon>FY_BMS.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FY_BCOM.aspx.cs">
+      <DependentUpon>FY_BCOM.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FY_BCOM.aspx.designer.cs">
+      <DependentUpon>FY_BCOM.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FY_BAF.aspx.cs">
+      <DependentUpon>FY_BAF.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FY_BAF.aspx.designer.cs">
+      <DependentUpon>FY_BAF.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FY_BBI.aspx.cs">
+      <DependentUpon>FY_BBI.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FY_BBI.aspx.designer.cs">
+      <DependentUpon>FY_BBI.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
