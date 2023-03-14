@@ -98,7 +98,10 @@
         table {
             width:1300px;    
          }
-        
+    td {
+    width:100px;
+
+    }
         </style>
 </head>
     
@@ -116,7 +119,7 @@
       <i class="fa fa-caret-down"></i>
     </button>
           <div class="dropdown-content">
-      <a href="First_Year.aspx">First Year</a>
+      <a href="First_Year">First Year</a>
       <a href="FY_BSCIT" >BSC IT</a>
       <a href="FY_BMS">BMS</a>
       <a href="FY_BCOM">BCOM</a>

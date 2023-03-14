@@ -94,10 +94,13 @@
         tr {
             height: 400px;     
          }
-        table {
+       table {
             width:1300px;    
          }
-        
+    td {
+    width:100px;
+
+    }
         </style>
     </head>
 <body style="height: 656px; background-color:lightblue;">
