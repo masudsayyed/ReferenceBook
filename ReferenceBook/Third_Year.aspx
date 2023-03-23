@@ -71,6 +71,12 @@
 .dropdown:hover .dropdown-content {
   display: block;
 }
+img {
+    width: 230px;
+    height: 285px;
+    line-height: 200px;
+    text-align: center;
+}
         #Button1 {
             height: 21px;
             width: 52px;
@@ -147,6 +153,7 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
+        <a href="Third_Year">Third Year</a>
       <a href="TY_BSCIT">BSC IT</a>
       <a href="TY_BMS">BMS</a>
       <a href="TY_BCOM">BCOM</a>
@@ -162,30 +169,44 @@
 
         <center><table>  <tr>  
                 <td>
-            <img alt="" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> DIGITAL ELECTRONICS<br />    
-            <a href=""><em>Download</em></a>
+         <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM V <br/> Software Project Management<br />    
+            <a href="https://dl.tgxlink.eu.org/28493/TY+BSCIT+Software+Project+Management.pdf?hash=AgADhw"><em>Download</em></a>
     </td>
     <td>
-        <img alt="" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> DIGITAL ELECTRONICS<br />    
+        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> DIGITAL ELECTRONICS<br />    
             <a href=""><em>Download</em></a>
         </td>
             <td>
-        <img alt="" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> DIGITAL ELECTRONICS<br />    
-            <a href=""><em>Download</em></a>
+         <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM V <br/> Internet of Things<br />    
+            <a href="https://dl.tgxlink.eu.org/28502/TY_BSCIT_dokumen_pub_internet_of_things_9352605225_9789352605224.pdf?hash=AgADfQ"><em>Download</em></a>
         </td>
                          </tr>
             <tr>  
                 <td>
-            <img alt="" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> DIGITAL ELECTRONICS<br />    
+            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> DIGITAL ELECTRONICS<br />    
             <a href=""><em>Download</em></a>
     </td>
     <td>
-        <img alt="" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> DIGITAL ELECTRONICS<br />    
+       <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM V <br/> Designing The Internet of Things<br />    
+            <a href="https://dl.tgxlink.eu.org/28506/TY+BSCIT+Designing_the_Internet_of_Things.pdf?hash=AgADfA"><em>Download</em></a>
+        </td>
+            <td>
+        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> DIGITAL ELECTRONICS<br />    
+            <a href=""><em>Download</em></a>
+        </td>
+                         </tr>
+                        <tr>  
+                <td>
+          <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM V <br/> Beginning asp.net 4.5 in C#<br />    
+            <a href="https://dl.tgxlink.eu.org/28508/TY+BSCIT+beginning_asp.net_4.5_in_C.pdf?hash=AgADew"><em>Download</em></a>
+    </td>
+    <td>
+        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> DIGITAL ELECTRONICS<br />    
             <a href=""><em>Download</em></a>
         </td>
             <td>
-        <img alt="" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> DIGITAL ELECTRONICS<br />    
-            <a href=""><em>Download</em></a>
+          <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM V <br/> Murachs C# 2015<br />    
+            <a href="https://dl.tgxlink.eu.org/28512/TY+BSCIT+Murachs+C%23+2015.pdf?hash=AgADhA"><em>Download</em></a>
         </td>
                          </tr>
                 </table></center>

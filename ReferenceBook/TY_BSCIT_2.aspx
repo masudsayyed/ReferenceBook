@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Home.aspx.cs" Inherits="ReferenceBook.WebForm1" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="TY_BSCIT_2.aspx.cs" Inherits="ReferenceBook.TY_BSCIT_2" %>
 
 <!DOCTYPE html>
 
@@ -6,7 +6,7 @@
 <head runat="server">
     <title></title>
     <style type="text/css">
-        .navbar {
+                .navbar {
   overflow: hidden;
   background-color: #75d193;
   height:35px;
@@ -77,14 +77,13 @@ img {
     line-height: 200px;
     text-align: center;
 }
-
         #Button1 {
-            height: 21px;
-            width: 21px;
+            background-color:red;
+            width: 30px;
         }
         #Button2 {
-            width: 52px;
-            height: 21px;
+            width: 30px;
+            background-color:red;
         }
         #button {
             width: 52px;
@@ -104,13 +103,13 @@ img {
         table {
             width:1300px;    
          }
-    td {
+          td {
     width:100px;
 
     }
+        
         </style>
-</head>
-    
+    </head>
 <body style="height: 656px; background-color:lightblue;">
         <div style="height: 102px; font-family: 'Arial Black'; background-color: #63c132; margin-top: 0px;">
         <center style="height: 100px">
@@ -118,28 +117,31 @@ img {
             Reference Book of BCOM ,BMS ,BSCIT ,BBI And BAF <br />
             </center>
             
-  <div class="navbar">
-    
-      <div class="dropdown">
-  <button class="dropbtn">FY
+     <div class="navbar">
+  <a href="Home.aspx" style="font-size:11px">Home</a>
+          
+         
+  <div class="dropdown">
+    <button class="dropbtn">FY
       <i class="fa fa-caret-down"></i>
     </button>
-          <div class="dropdown-content">
-      <a href="First_Year">First Year</a>
+    <div class="dropdown-content">
+       <a href="First_Year">First Year</a>
       <a href="FY_BSCIT" >BSC IT</a>
       <a href="FY_BMS">BMS</a>
       <a href="FY_BCOM">BCOM</a>
       <a href="FY_BAF">BAF</a>
       <a href="FY_BBI">BBI</a>
-    </div></div>
+    </div>
+  </div> 
 
   <div class="dropdown">
     <button class="dropbtn">SY 
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-       <a href="Second_Year">Second Year</a>
-      <a href="SY_BSCIT">BSC IT</a>
+     <a href="Second_Year">Second Year</a>
+          <a href="SY_BSCIT">BSC IT</a>
       <a href="SY_BMS">BMS</a>
       <a href="SY_BCOM">BCOM</a>
       <a href="SY_BAF">BAF</a>
@@ -147,12 +149,12 @@ img {
     </div>
   </div> 
 
-  <div class="dropdown">
-    <button class="dropbtn">TY 
+         <div class="dropdown">
+    <button class="dropbtn">TY
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-     <a href="Third_Year">Third Year</a>
+        <a href="Third_Year">Third Year</a>
       <a href="TY_BSCIT">BSC IT</a>
       <a href="TY_BMS">BMS</a>
       <a href="TY_BCOM">BCOM</a>
@@ -160,20 +162,24 @@ img {
       <a href="TY_BBI">BBI</a>
     </div>
   </div> 
+
     </div>
             
+             
+         
+
         <center><table>  <tr>  
                 <td>
-            <img alt="Under Maintenance" src="Image/Programming with C.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> SEM I <br/> Programming with C<br />    
-            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4108573/FY%20BSCIT%20PRogrammin%20with%20c.pdf"><em>Download</em></a>
+            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> DIGITAL ELECTRONICS<br />    
+            <a href=""><em>Download</em></a>
     </td>
     <td>
-        <img alt="Under Maintenance" src="Image/Programming%20with%20C++.png" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> SEM II <br/> Object Oriented Programming in C++<br />    
-            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109410/BSC%20SEM%20II%20ObjectOrientedProgramminginC4thEdition.pdf"><em>Download</em></a>
+        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> DIGITAL ELECTRONICS<br />    
+            <a href=""><em>Download</em></a>
         </td>
             <td>
-           <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM III <br/> Oriented Programming in Python<br />    
-            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109545/Object_oriented_programming_in_python.pdf"><em>Download</em></a>
+        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> DIGITAL ELECTRONICS<br />    
+            <a href=""><em>Download</em></a>
         </td>
                          </tr>
             <tr>  
@@ -190,7 +196,7 @@ img {
             <a href=""><em>Download</em></a>
         </td>
                          </tr>
-             <tr>  
+              <tr>  
                 <td>
             <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> DIGITAL ELECTRONICS<br />    
             <a href=""><em>Download</em></a>
@@ -204,7 +210,10 @@ img {
             <a href=""><em>Download</em></a>
         </td>
                          </tr>
-                </table></center>
+                </table>
+            <a href="TY_BSCIT.aspx"><input id="Button1" type="button" value="1"/></a>
+                           <a href="TY_BSCIT_2.aspx"><input id="Button2" type="button" value="2"/></a>
+        </center>
          </div>
                          </body>
 </html>

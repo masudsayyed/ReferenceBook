@@ -1,11 +1,11 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="FY_BSCIT.aspx.cs" Inherits="ReferenceBook.WebForm5" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="FY_BSCIT_2.aspx.cs" Inherits="ReferenceBook.FY_BSCIT_2" %>
 
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title></title>
-  <style type="text/css">
+ <style type="text/css">
     .navbar {
   overflow: hidden;
   background-color: #75d193;
@@ -167,50 +167,55 @@ img {
             
         <center><table>  <tr>  
                 <td>
-            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Programming Language with C <br />    
-            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4108573/FY%20BSCIT%20PRogrammin%20with%20c.pdf"><em>Download</em></a>
+            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Object Oriented Programming in C++ <br />    
+            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109410/BSC%20SEM%20II%20ObjectOrientedProgramminginC4thEdition.pdf"><em>Download</em></a>
     </td>
     <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Programming Language<br />    
-            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4108582/FY%20BSCIT%20PRogramming%20Language.pdf"><em>Download</em></a>
+        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />Object Oriented Programming C++ Simplified<br />    
+            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109417/BSC_SEMII_Object_Oriented_Programming_C%2B%2B_Simplified_PDFDrive_.pdf"><em>Download</em></a>
         </td>
             <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Foundation of Digital Electronics and Logic Design<br />    
-            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4108595/FY_BSCIT_foundation_of_digital_electronics_and_logic_design_pdf.pdf"><em>Download</em></a>
+        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Introduction to Embedded Systems<br />    
+            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109438/BSC_SEM_II_K_Shibu_Introduction_To_Embedded_Systems_Tmh_2009.pdf"><em>Download</em></a>
         </td>
                          </tr>
             <tr>  
                 <td>
-            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />  Fundamental of Logic Design<br />    
-            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4108603/FY_BSCIT_fundamentals_of_logic_design_7th_edition_pr_3ceb2a7a17.pdf"><em>Download</em></a>
+            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />  Embedded Systems Architecture Programming and Design<br />    
+            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109453/SEM_II_Raj_Kamal_Embedded_Systems_Architecture_Programming_and_Design.pdf"><em>Download</em></a>
     </td>
     <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />  Fundamentals of Database System<br />    
-            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4108622/FY%20BSCIT%20Fundamental%20of%20database%20system.pdf"><em>Download</em></a>
+        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />  The Complete Reference html CSS<br />    
+            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109469/BSC%20SEM%20II%20the-complete-reference-html-css-fifth-edition.pdf"><em>Download</em></a>
         </td>
             <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> DIGITAL ELECTRONICS Data Systems: Design Implementation and Management<br />    
-            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4108629/Database_Systems_Design%2C_Implementation%2C_and_Management_9th_Edition.pdf"><em>Download</em></a>
+        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />Step by Step HTML5<br />    
+            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109489/BSC%20SEM%20II%20Step%20by%20Step%20HTML5.pdf%20%28%20PDFDrive%20%29.pdf"><em>Download</em></a>
         </td>
                          </tr>
                <tr>  
                 <td>
-            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />  Discrete Mathematics with Application<br />    
-            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4108631/FY%20BSCIT%20discrete-mathematics-with-applications.pdf"><em>Download</em></a>
+            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />Numerical Methods for Engineers<br />    
+            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109496/BSC_SEM_II_numerical_methods_for_engineers_chapra_canale_6th_ed.pdf"><em>Download</em></a>
     </td>
     <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Discretre Mathematics Schaum's Outlines Series<br />    
-            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4108633/Schaum%27s_Outline_of_Discrete_Mathematics%2C_Third_Edition_Schaum%27s.pdf"><em>Download</em></a>
+        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Introductory Methods of Numerical Analysis<br />    
+            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109504/BSC_SEM_II_Introductory_methods_of_numerical_analysis_by_S_S_Sastry.pdf"><em>Download</em></a>
         </td>
             <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />  Technical Communication: Principles and Practices<br />    
-            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4108669/FY_BSCIT_Technical_communication_principles_and_practice_PDFDrive.pdf"><em>Download</em></a>
+        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />  Green Computing and Green IT Best Practice<br />    
+            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109523/BSC_SEM_II_Green_Computing_and_Green_IT_Best_Practices_On_PDFDrive.pdf"><em>Download</em></a>
         </td>
-                         </tr>
+                         </tr>    
+            <tr>
+                <td>
+                      <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />Green Data Center Journey<br />    
+            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109531/BSC%20SEM%20II%20m06-IBMred-GreenDataCenterJourney.pdf"><em>Download</em></a>
+        </td></tr>
+
                 </table>   <a href="FY_BSCIT.aspx"><input id="Button1" type="button" value="1"/></a>
                            <a href="FY_BSCIT_2.aspx"><input id="Button2" type="button" value="2"/></a>
         </center>
          </div>
-  
 </body>
 </html>

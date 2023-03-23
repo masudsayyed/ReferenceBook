@@ -11,7 +11,7 @@ namespace ReferenceBook
 {
 
 
-    public partial class WebForm15
+    public partial class SY_BSCIT_2
     {
     }
 }
