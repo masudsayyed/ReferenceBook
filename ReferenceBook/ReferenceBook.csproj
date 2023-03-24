@@ -125,12 +125,12 @@
     <Content Include="Content\bootstrap.css.map" />
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
+    <Content Include="Image\CCDA 200-310 Official Cert Guide.png" />
     <Content Include="Image\logo1.png" />
-    <Content Include="Image\background.png" />
     <Content Include="Home.aspx" />
     <Content Include="First_Year.aspx" />
-    <Content Include="Image\Programming with C++.png" />
     <Content Include="Image\Programming with C.jpg" />
+    <Content Include="Image\_Foundations_of_software_testing.png" />
     <Content Include="Second_Year.aspx" />
     <Content Include="SY_BSCIT_2.aspx" />
     <Content Include="Third_Year.aspx" />
