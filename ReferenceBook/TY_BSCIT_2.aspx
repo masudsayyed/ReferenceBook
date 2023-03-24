@@ -170,67 +170,68 @@ img {
 
         <center><table>  <tr>  
                 <td>
-            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Foundations of Software Testing<br />    
+            <img alt="Under Maintenance" src="Image/_Foundations_of_software_testing.png" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Foundations of Software Testing<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4133317/BSC_SEM_VI_Foundations_of_software_testing_ISTQB_Certification.pdf"><em>Download</em></a>
     </td>
     <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Software Testing and Continuous Quality Improvement<br />    
+        <img alt="Under Maintenance" src="Image/Software_Testing_and_Continuous_Quality_Improvement%202016.png" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Software Testing and Continuous Quality Improvement<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4133323/BSC_SEM_VI_Software_Testing_and_Continuous_Quality_Improvement_Third.pdf"><em>Download</em></a>
         </td>
             <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Principles of Computer Security: CompTIA Security+ and Beyond<br />    
+        <img alt="Under Maintenance" src="Image/principle%20of%20computer%20security.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Principles of Computer Security: CompTIA Security+ and Beyond<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4133338/BSC_SEM_VI_Principles_of_Computer_Security_CompTIA_Security%2B_and.pdf"><em>Download</em></a>
         </td>
                          </tr>
             <tr>  
                 <td>
-            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> The Complete Reference: Information Security <br />    
+            <img alt="Under Maintenance" src="Image/Information_Security_The_Complete_Reference.png" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> The Complete Reference: Information Security <br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4133338/BSC_SEM_VI_Principles_of_Computer_Security_CompTIA_Security%2B_and.pdf"><em>Download</em></a>
     </td>
     <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Fundamentals of Business Intelligence<br />    
+        <img alt="Under Maintenance" src="Image/Fundamentals_of_Business_Intelligence.png" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Fundamentals of Business Intelligence<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4133343/BSC_SEM_VI_Fundamentals_of_Business_Intelligence_PDFDrive_.pdf"><em>Download</em></a>
         </td>
             <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Business Intelligence: Data Mining and Optimization for Desicion Making<br />    
+        <img alt="Under Maintenance" src="Image/Business%20Intelligence%20-%20Carlo%20Vercellis.png" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Business Intelligence: Data Mining and Optimization for Desicion Making<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4133340/BSC%20SEM%20VI%20Business%20Intelligence%20-%20Carlo%20Vercellis.pdf"><em>Download</em></a>
         </td>
                          </tr>
               <tr>  
                 <td>
-            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Fundamentals of Spatial Information Systems<br />    
+            <img alt="Under Maintenance" src="Image/Fundamentals_of_Spatial_Information_Systems.png" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Fundamentals of Spatial Information Systems<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4133349/BSC%20SEM%20VI%20Fundamentals_of_Spatial_Information_Systems.pdf"><em>Download</em></a>
     </td>
     <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Principles of Geographic Information Systems an Introductory<br />    
+        <img alt="Under Maintenance" src="Image/Principles%20Of%20Geographic%20Information%20Systems%20BY%20Otto%20Huisman%20and%20Rolf%20A.%20de_0000.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Principles of Geographic Information Systems an Introductory<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4133352/BSC_SEM_VI_Principles_of_Geographic_Information_Systems_An_introductory.pdf"><em>Download</em></a>
         </td>
             <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> CCDA 200-310 Official Cert Guide<br />    
+        <img alt="Under Maintenance" src="Image/CCDA%20200-310%20Official%20Cert%20Guide.png" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> CCDA 200-310 Official Cert Guide<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4133360/BSC%20SEM%20VI%20CCDA%20200-310%20Official%20Cert%20Guide.pdf"><em>Download</em></a>
         </td>
                          </tr>
               <tr>  
                 <td>
-            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> ITIL v3 Service Operation<br />    
+            <img alt="Under Maintenance" src="Image/ITIL_Service_Operation.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> ITIL v3 Service Operation<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4133375/BSC%20SEM%20VI%20OGC%20-%20ITIL%20v3%20-%20Service%20Operation.pdf"><em>Download</em></a>
     </td>
     <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> ITIL v3 Service Transition<br />    
+        <img alt="Under Maintenance" src="Image/itil%20v3-itil-v3-service-transition%20book.png" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> ITIL v3 Service Transition<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4133370/BSC%20SEM%20VI%20itilv3st-itil-v3-service-transition.pdf"><em>Download</em></a>
         </td>
             <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> ITIL v3 Service Strategy<br />    
+        <img alt="Under Maintenance" src="Image/OGC%20-%20ITIL%20v3%20-%20Service%20Strategy.png" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> ITIL v3 Service Strategy<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4133368/BSC%20SEM%20VI%20OGC%20-%20ITIL%20v3%20-%20Service%20Strategy.pdf"><em>Download</em></a>
         </td>
                          </tr>
               <tr>  
                 <td>
-            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> ITIL v3 Continual Service Improvement<br />    
+            <img alt="Under Maintenance" src="Image/ITIL%20v3-Continual%20Service%20Improvement.png" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> ITIL v3 Continual Service Improvement<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4133367/BSC%20SEM%20VI%20ITIL%20v3-Continual%20Service%20Improvement.pdf"><em>Download</em></a>
     </td>
     <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Cybersecurity Law<br />    
+       
+        <img alt="Under Maintenance" src="Image/Cybersecurity%20law.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Cybersecurity Law<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4133383/BSC_SEM_VI_dokumen_pub_cybersecurity_law_2nd_edition_1119517206.pdf"><em>Download</em></a>
         </td>
                          </tr>
