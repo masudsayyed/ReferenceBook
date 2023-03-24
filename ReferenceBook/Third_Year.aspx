@@ -173,7 +173,7 @@ img {
             <a href="https://dl.tgxlink.eu.org/28493/TY+BSCIT+Software+Project+Management.pdf?hash=AgADhw"><em>Download</em></a>
     </td>
     <td>
-         <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM VI <br/> Foundations of Software Testing<br />    
+         <img alt="Under Maintenance" src="Image/_Foundations_of_software_testing.png" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM VI <br/> Foundations of Software Testing<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4133317/BSC_SEM_VI_Foundations_of_software_testing_ISTQB_Certification.pdf"><em>Download</em></a>
         </td>
             <td>
@@ -183,7 +183,7 @@ img {
                          </tr>
             <tr>  
                 <td>
-            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM VI <br/> Software Testing and Continuous Quality Improvement<br />    
+            <img alt="Under Maintenance" src="Image/Software_Testing_and_Continuous_Quality_Improvement%202016.png" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM VI <br/> Software Testing and Continuous Quality Improvement<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4133323/BSC_SEM_VI_Software_Testing_and_Continuous_Quality_Improvement_Third.pdf"><em>Download</em></a>
     </td>
     <td>
@@ -191,7 +191,7 @@ img {
             <a href="https://dl.tgxlink.eu.org/28506/TY+BSCIT+Designing_the_Internet_of_Things.pdf?hash=AgADfA"><em>Download</em></a>
         </td>
             <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM VI <br/> Principles of Computer Security: CompTIA Security+ and Beyond<br />    
+        <img alt="Under Maintenance" src="Image/principle%20of%20computer%20security.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM VI <br/> Principles of Computer Security: CompTIA Security+ and Beyond<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4133338/BSC_SEM_VI_Principles_of_Computer_Security_CompTIA_Security%2B_and.pdf"><em>Download</em></a>
         </td>
                          </tr>
@@ -201,8 +201,8 @@ img {
             <a href="https://dl.tgxlink.eu.org/28508/TY+BSCIT+beginning_asp.net_4.5_in_C.pdf?hash=AgADew"><em>Download</em></a>
     </td>
     <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM VI <br/> The Complete Reference: Information Security <br />    
-            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4133338/BSC_SEM_VI_Principles_of_Computer_Security_CompTIA_Security%2B_and.pdf"><em>Download</em></a>
+        <img alt="Under Maintenance" src="Image/Information_Security_The_Complete_Reference.png" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM VI <br/> The Complete Reference: Information Security <br />    
+            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4135661/BSC_SEM_VI_Information_Security_The_Complete_Reference_PDFDrive_.pdf"><em>Download</em></a>
         </td>
             <td>
           <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM V <br/> Murachs C# 2015<br />    

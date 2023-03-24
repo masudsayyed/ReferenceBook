@@ -166,43 +166,43 @@ img {
             
         <center><table>  <tr>  
                 <td>
-            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> SEM I <br/> Programming with C<br />    
+            <img alt="Under Maintenance" src="Image/Programming with C.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> SEM I <br/> Programming with C<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4108573/FY%20BSCIT%20PRogrammin%20with%20c.pdf"><em>Download</em></a>
     </td>
     <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> SEM I <br/> Programming Language<br />    
+        <img alt="Under Maintenance" src="Image/programming%20language.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> SEM I <br/> Programming Language<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4108582/FY%20BSCIT%20PRogramming%20Language.pdf"><em>Download</em></a>
         </td>
             <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> SEM I <br/> Fundamentals of digital Electronics and Logical Design<br />    
+        <img alt="Under Maintenance" src="Image/fundamental%20of%20digital%20electronic%20and%20logic%20design.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> SEM I <br/> Fundamentals of digital Electronics and Logical Design<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4108595/FY_BSCIT_foundation_of_digital_electronics_and_logic_design_pdf.pdf" ><em>Download</em></a>
         </td>
                          </tr>
             <tr>  
                 <td>
-            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> SEM II <br/> Object Oriented Programming in C++<br />    
+            <img alt="Under Maintenance" src="Image/object%20oriented%20programming%20in%20c++%204th%20edition.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> SEM II <br/> Object Oriented Programming in C++<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109410/BSC%20SEM%20II%20ObjectOrientedProgramminginC4thEdition.pdf"><em>Download</em></a>
     </td>
     <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM II<br/> Object Oriented Programming C++ Simplified<br />    
+        <img alt="Under Maintenance" src="Image/Object%20Oriented%20Programming%20C++%20Simplified.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM II<br/> Object Oriented Programming C++ Simplified<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109417/BSC_SEMII_Object_Oriented_Programming_C%2B%2B_Simplified_PDFDrive_.pdf"><em>Download</em></a>
         </td>
             <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM I<br/>  Database Systems: Design Implementation and Management<br />    
+        <img alt="Under Maintenance" src="Image/DIGITAL%20ELECTRONICS%20Data%20Systems%20Design%20Implementation%20and%20Management.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM I<br/>  Database Systems: Design Implementation and Management<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4108629/Database_Systems_Design%2C_Implementation%2C_and_Management_9th_Edition.pdf"><em>Download</em></a>
         </td>
                          </tr>
               <tr>  
                 <td>
-            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> SEM I <br/> Discrete Mathematics with Applications <br />    
+            <img alt="Under Maintenance" src="Image/Discrete%20Mathematics%20with%20Application.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> SEM I <br/> Discrete Mathematics with Applications <br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4108631/FY%20BSCIT%20discrete-mathematics-with-applications.pdf"><em>Download</em></a>
     </td>
     <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM I<br/> Discrete Mathematics Schaum's Outlines Series<br />    
+        <img alt="Under Maintenance" src="Image/Discretre%20Mathematics%20Schaum's%20Outlines%20Series.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM I<br/> Discrete Mathematics Schaum's Outlines Series<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4108633/Schaum%27s_Outline_of_Discrete_Mathematics%2C_Third_Edition_Schaum%27s.pdf"><em>Download</em></a>
         </td>
             <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM II<br/> Introduction to Embedded Systems<br />    
+        <img alt="Under Maintenance" src="Image/Introduction%20to%20Embedded%20Systems.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM II<br/> Introduction to Embedded Systems<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109438/BSC_SEM_II_K_Shibu_Introduction_To_Embedded_Systems_Tmh_2009.pdf"><em>Download</em></a>
         </td>
                          </tr>

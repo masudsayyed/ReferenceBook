@@ -167,43 +167,43 @@ img {
             
         <center><table>  <tr>  
                 <td>
-            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Programming Language with C <br />    
+            <img alt="Under Maintenance" src="Image/Programming with C.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Programming with C <br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4108573/FY%20BSCIT%20PRogrammin%20with%20c.pdf"><em>Download</em></a>
     </td>
     <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Programming Language<br />    
+        <img alt="Under Maintenance" src="Image/programming%20language.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Programming Language<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4108582/FY%20BSCIT%20PRogramming%20Language.pdf"><em>Download</em></a>
         </td>
             <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Foundation of Digital Electronics and Logic Design<br />    
+        <img alt="Under Maintenance" src="Image/fundamental%20of%20digital%20electronic%20and%20logic%20design.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Fundamentals of Digital Electronics and Logic Design<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4108595/FY_BSCIT_foundation_of_digital_electronics_and_logic_design_pdf.pdf"><em>Download</em></a>
         </td>
                          </tr>
             <tr>  
                 <td>
-            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />  Fundamental of Logic Design<br />    
+            <img alt="Under Maintenance" src="Image/Fundamental%20of%20Logic%20Design.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />  Fundamental of Logic Design<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4108603/FY_BSCIT_fundamentals_of_logic_design_7th_edition_pr_3ceb2a7a17.pdf"><em>Download</em></a>
     </td>
     <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />  Fundamentals of Database System<br />    
+        <img alt="Under Maintenance" src="Image/Fundamentals%20of%20Database%20System.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />  Fundamentals of Database System<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4108622/FY%20BSCIT%20Fundamental%20of%20database%20system.pdf"><em>Download</em></a>
         </td>
             <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> DIGITAL ELECTRONICS Data Systems: Design Implementation and Management<br />    
+        <img alt="Under Maintenance" src="Image/DIGITAL%20ELECTRONICS%20Data%20Systems%20Design%20Implementation%20and%20Management.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Database Systems: Design Implementation and Management<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4108629/Database_Systems_Design%2C_Implementation%2C_and_Management_9th_Edition.pdf"><em>Download</em></a>
         </td>
                          </tr>
                <tr>  
                 <td>
-            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />  Discrete Mathematics with Application<br />    
+            <img alt="Under Maintenance" src="Image/Discrete%20Mathematics%20with%20Application.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />  Discrete Mathematics with Application<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4108631/FY%20BSCIT%20discrete-mathematics-with-applications.pdf"><em>Download</em></a>
     </td>
     <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Discretre Mathematics Schaum's Outlines Series<br />    
+        <img alt="Under Maintenance" src="Image/Discretre%20Mathematics%20Schaum's%20Outlines%20Series.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Discretre Mathematics Schaum's Outlines Series<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4108633/Schaum%27s_Outline_of_Discrete_Mathematics%2C_Third_Edition_Schaum%27s.pdf"><em>Download</em></a>
         </td>
             <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />  Technical Communication: Principles and Practices<br />    
+        <img alt="Under Maintenance" src="Image/Technical%20Communication%20Principles%20and%20Practices.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />  Technical Communication: Principles and Practices<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4108669/FY_BSCIT_Technical_communication_principles_and_practice_PDFDrive.pdf"><em>Download</em></a>
         </td>
                          </tr>

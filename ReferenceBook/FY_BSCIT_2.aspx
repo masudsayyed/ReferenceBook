@@ -167,49 +167,49 @@ img {
             
         <center><table>  <tr>  
                 <td>
-            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Object Oriented Programming in C++ <br />    
+            <img alt="Under Maintenance" src="Image/object%20oriented%20programming%20in%20c++%204th%20edition.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Object Oriented Programming in C++ <br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109410/BSC%20SEM%20II%20ObjectOrientedProgramminginC4thEdition.pdf"><em>Download</em></a>
     </td>
     <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />Object Oriented Programming C++ Simplified<br />    
+        <img alt="Under Maintenance" src="Image/Object%20Oriented%20Programming%20C++%20Simplified.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />Object Oriented Programming C++ Simplified<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109417/BSC_SEMII_Object_Oriented_Programming_C%2B%2B_Simplified_PDFDrive_.pdf"><em>Download</em></a>
         </td>
             <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Introduction to Embedded Systems<br />    
+        <img alt="Under Maintenance" src="Image/Introduction%20to%20Embedded%20Systems.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Introduction to Embedded Systems<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109438/BSC_SEM_II_K_Shibu_Introduction_To_Embedded_Systems_Tmh_2009.pdf"><em>Download</em></a>
         </td>
                          </tr>
             <tr>  
                 <td>
-            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />  Embedded Systems Architecture Programming and Design<br />    
+            <img alt="Under Maintenance" src="Image/Embedded%20Systems%20Architecture%20Programming%20and%20Desig%20raj%20kamal.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />  Embedded Systems Architecture Programming and Design<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109453/SEM_II_Raj_Kamal_Embedded_Systems_Architecture_Programming_and_Design.pdf"><em>Download</em></a>
     </td>
     <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />  The Complete Reference html CSS<br />    
+        <img alt="Under Maintenance" src="Image/The%20Complete%20Reference%20html%20CSS.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />  The Complete Reference html CSS<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109469/BSC%20SEM%20II%20the-complete-reference-html-css-fifth-edition.pdf"><em>Download</em></a>
         </td>
             <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />Step by Step HTML5<br />    
+        <img alt="Under Maintenance" src="Image/Step%20by%20Step%20HTML5.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />Step by Step HTML5<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109489/BSC%20SEM%20II%20Step%20by%20Step%20HTML5.pdf%20%28%20PDFDrive%20%29.pdf"><em>Download</em></a>
         </td>
                          </tr>
                <tr>  
                 <td>
-            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />Numerical Methods for Engineers<br />    
+            <img alt="Under Maintenance" src="Image/Numerical%20Methods%20for%20Engineers.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />Numerical Methods for Engineers<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109496/BSC_SEM_II_numerical_methods_for_engineers_chapra_canale_6th_ed.pdf"><em>Download</em></a>
     </td>
     <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Introductory Methods of Numerical Analysis<br />    
+        <img alt="Under Maintenance" src="Image/Introductory%20Methods%20of%20Numerical%20Analysis.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Introductory Methods of Numerical Analysis<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109504/BSC_SEM_II_Introductory_methods_of_numerical_analysis_by_S_S_Sastry.pdf"><em>Download</em></a>
         </td>
             <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />  Green Computing and Green IT Best Practice<br />    
+        <img alt="Under Maintenance" src="Image/Green%20Computing%20and%20Green%20IT%20Best%20Practice.png" style="float:left; height: 285px; width: 230px; margin-top: 0px" />  Green Computing and Green IT Best Practice<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109523/BSC_SEM_II_Green_Computing_and_Green_IT_Best_Practices_On_PDFDrive.pdf"><em>Download</em></a>
         </td>
                          </tr>    
             <tr>
                 <td>
-                      <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />Green Data Center Journey<br />    
+                      <img alt="Under Maintenance" src="Image/Green%20Data%20Center%20Journey.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />Green Data Center Journey<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109531/BSC%20SEM%20II%20m06-IBMred-GreenDataCenterJourney.pdf"><em>Download</em></a>
         </td></tr>
 
