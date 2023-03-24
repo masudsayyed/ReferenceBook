@@ -170,43 +170,43 @@ img {
             
         <center><table>  <tr>  
                 <td>
-            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />Object Oriented Programming in Python<br />    
+            <img alt="Under Maintenance" src="Image/Object%20Oriented%20Programming%20in%20Python.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />Object Oriented Programming in Python<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109545/Object_oriented_programming_in_python.pdf"><em>Download</em></a>
     </td>
     <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Exploring Python<br />    
+        <img alt="Under Maintenance" src="Image/Exploring%20Python.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Exploring Python<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109548/exploring_python_by_budd.pdf"><em>Download</em></a>
         </td>
             <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> An Introduction to Data Structures with Applications<br />    
+        <img alt="Under Maintenance" src="Image/An%20Introduction%20to%20Data%20Structures%20with%20Applications.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> An Introduction to Data Structures with Applications<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109551/SY_BSCITebin_pub_an_introduction_to_data_structures_with_applications.pdf"><em>Download</em></a>
         </td>
                          </tr>
             <tr>  
                 <td>
-            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> A Simplified Approach to Data Structures<br />    
+            <img alt="Under Maintenance" src="Image/A%20Simplified%20Approach%20to%20Data%20Structures.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> A Simplified Approach to Data Structures<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109553/A%20Simplified%20Approach%20To%20Data%20Structures%20BY%20Goyal%20Lalit.pdf"><em>Download</em></a>
     </td>
     <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Data Communications and Networking<br />    
+        <img alt="Under Maintenance" src="Image/Data%20Communications%20and%20Networking.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Data Communications and Networking<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109557/SY_BSCIT_Data_Communications_and_Networking_By_Behrouz_A_Forouzan.pdf"><em>Download</em></a>
         </td>
             <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> TCP IP Protocol Suite<br />    
+        <img alt="Under Maintenance" src="Image/TCP_IP%20Protocol%20Suite%204th%20ed.%20-%20B.%20Forouzan%20(McGraw-Hill,%202010)%20BBS_0000.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> TCP IP Protocol Suite<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109561/SY_BSCIT_tcp_ip_protocol_suite_4th_ed_b_forouzan_mcgraw_hill_2010.pdf"><em>Download</em></a>
         </td>
                          </tr>
              <tr>  
                 <td>
-            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />Database Systems<br />    
+            <img alt="Under Maintenance" src="Image/Cengage_Learning_Database_Systems_12th_Edition_.png" style="float:left; height: 285px; width: 230px; margin-top: 0px" />Database Systems<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109563/SY_BSCIT_Cengage_Learning_Database_Systems_12th_Edition_1305627482.pdf"><em>Download</em></a>
     </td>
     <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />Introduction to Database Systems<br />    
+        <img alt="Under Maintenance" src="Image/Introduction%20to%20Database%20Systems.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />Introduction to Database Systems<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109565/SY%20BSCIT%20An%20Introduction%20to%20Database%20Systems%20%28%20PDFDrive%20%29.pdf"><em>Download</em></a>
         </td>
             <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> A Text Book of Applied Mathematics Vol I<br />    
+        <img alt="Under Maintenance" src="Image/A%20Text%20Book%20of%20Applied%20Mathematics%20Vol%20I.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> A Text Book of Applied Mathematics Vol I<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109567/SY_BSCIT_A_Text_Book_Of_Applied_Mathematics_Vol_I_BY_P_N_Wartikar.pdf"><em>Download</em></a>
         </td>
                          </tr>

@@ -169,43 +169,43 @@ img {
             
         <center><table>  <tr>  
                 <td>
-            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM III <br/> Oriented Programming in Python<br />    
+            <img alt="Under Maintenance" src="Image/Object%20Oriented%20Programming%20in%20Python.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM III <br/> Oriented Programming in Python<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109545/Object_oriented_programming_in_python.pdf"><em>Download</em></a>
     </td>
     <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM III <br/> Exploring Python<br />    
+        <img alt="Under Maintenance" src="Image/Exploring%20Python.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM III <br/> Exploring Python<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109548/exploring_python_by_budd.pdf"><em>Download</em></a>
         </td>
             <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM IV <br/> Beginning Java With NetBeans<br />    
+        <img alt="Under Maintenance" src="Image/Murach's%20bEGINNING%20OF%20JAVA%20WITH%20NETBEANS.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM IV <br/>Murach's Beginning Java With NetBeans<br />    
             <a href="https://dl.tgxlink.eu.org/28427/BSC_SEM_IV_Murach%27s_Beginning_Java_with_NetBeans_PDFDrive_.pdf?hash=AgADYw"><em>Download</em></a>
         </td>
                          </tr>
             <tr>  
                 <td>
-            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM IV <br/> JAVA BOOK<br />    
+            <img alt="Under Maintenance" src="Image/Java%20The%20Complete%20Reference.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM IV <br/> Java: The Complete Reference<br />    
             <a href="https://dl.tgxlink.eu.org/28443/BSC+SEM+IV+javabook.pdf?hash=AgADYg"><em>Download</em></a>
     </td>
     <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM III <br/> An Introduction to Data Structures with Applications<br />    
+        <img alt="Under Maintenance" src="Image/An%20Introduction%20to%20Data%20Structures%20with%20Applications.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM III <br/> An Introduction to Data Structures with Applications<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109551/SY_BSCITebin_pub_an_introduction_to_data_structures_with_applications.pdf"><em>Download</em></a>
         </td>
             <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM III <br/> Simplified Approach To Data Structures<br />    
+        <img alt="Under Maintenance" src="Image/A%20Simplified%20Approach%20to%20Data%20Structures.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM III <br/> Simplified Approach To Data Structures<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109553/A%20Simplified%20Approach%20To%20Data%20Structures%20BY%20Goyal%20Lalit.pdf"><em>Download</em></a>
         </td>
                          </tr>
                <tr>  
                 <td>
-            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM IV <br/>Programming Embedded Systems in C and C++<br />    
+            <img alt="Under Maintenance" src="Image/Image%203.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM IV <br/>Programming Embedded Systems in C and C++<br />    
             <a href="https://dl.tgxlink.eu.org/28449/BSC_SEM_IV_Programming_Embedded_Systems_in_C_and_C_by_Michael_Barr.pdf?hash=AgADZw"><em>Download</em></a>
     </td>
     <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM IV <br/> Mathematical Statistics<br />    
+        <img alt="Under Maintenance" src="Image/Mathematical%20Statistics.jpeg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM IV <br/> Mathematical Statistics<br />    
             <a href="https://dl.tgxlink.eu.org/28453/BSC_SEM_IV_pdfcoffee_com_mathematical_statistics_by_kapurjn_and.pdf?hash=AgADZg"><em>Download</em></a>
         </td>
             <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM III <br/> Introduction to Database Systems<br />    
+        <img alt="Under Maintenance" src="Image/Introduction%20to%20Database%20Systems.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM III <br/> Introduction to Database Systems<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109565/SY%20BSCIT%20An%20Introduction%20to%20Database%20Systems%20%28%20PDFDrive%20%29.pdf"><em>Download</em></a>
         </td>
                          </tr>

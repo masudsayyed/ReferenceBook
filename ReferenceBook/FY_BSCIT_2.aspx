@@ -167,11 +167,11 @@ img {
             
         <center><table>  <tr>  
                 <td>
-            <img alt="Under Maintenance" src="Image/object%20oriented%20programming%20in%20c++%204th%20edition.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Object Oriented Programming in C++ <br />    
+            <img alt="Under Maintenance" src="Image/Image%201.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Object Oriented Programming in C++ <br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109410/BSC%20SEM%20II%20ObjectOrientedProgramminginC4thEdition.pdf"><em>Download</em></a>
     </td>
     <td>
-        <img alt="Under Maintenance" src="Image/Object%20Oriented%20Programming%20C++%20Simplified.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />Object Oriented Programming C++ Simplified<br />    
+        <img alt="Under Maintenance" src="Image/Image%202.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />Object Oriented Programming C++ Simplified<br />    
             <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4109417/BSC_SEMII_Object_Oriented_Programming_C%2B%2B_Simplified_PDFDrive_.pdf"><em>Download</em></a>
         </td>
             <td>
