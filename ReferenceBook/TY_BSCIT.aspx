@@ -170,71 +170,71 @@ img {
 
         <center><table>  <tr>  
                 <td>
-            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />Software Project Management<br />    
+            <img alt="Under Maintenance" src="Image/Software%20project%20management.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />Software Project Management<br />    
             <a href="https://dl.tgxlink.eu.org/28493/TY+BSCIT+Software+Project+Management.pdf?hash=AgADhw"><em>Download</em></a>
     </td>
     <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Internet of Things<br />    
+        <img alt="Under Maintenance" src="Image/Internet%20of%20Things.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Internet of Things<br />    
             <a href="https://dl.tgxlink.eu.org/28502/TY_BSCIT_dokumen_pub_internet_of_things_9352605225_9789352605224.pdf?hash=AgADfQ"><em>Download</em></a>
         </td>
             <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Designing The Internet of Things<br />    
+        <img alt="Under Maintenance" src="Image/Designing%20The%20Internet%20of%20Things.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Designing The Internet of Things<br />    
             <a href="https://dl.tgxlink.eu.org/28506/TY+BSCIT+Designing_the_Internet_of_Things.pdf?hash=AgADfA"><em>Download</em></a>
         </td>
                          </tr>
             <tr>  
                 <td>
-            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Beginning asp.net 4.5 in C#<br />    
+            <img alt="Under Maintenance" src="Image/Image%204.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Beginning asp.net 4.5 in C#<br />    
             <a href="https://dl.tgxlink.eu.org/28508/TY+BSCIT+beginning_asp.net_4.5_in_C.pdf?hash=AgADew"><em>Download</em></a>
     </td>
     <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Murachs C# 2015<br />    
+        <img alt="Under Maintenance" src="Image/Image%205.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Murachs C# 2015<br />    
             <a href="https://dl.tgxlink.eu.org/28512/TY+BSCIT+Murachs+C%23+2015.pdf?hash=AgADhA"><em>Download</em></a>
         </td>
             <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> AI Russell Norvig<br />    
+        <img alt="Under Maintenance" src="Image/Artificial%20Intelligence%20A%20Modern%20Approach.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />Artificial Intelligence: A Modern Approach<br />    
             <a href="https://dl.tgxlink.eu.org/28514/TY+BSCIT+AI_Russell_Norvig.pdf?hash=AgADdg"><em>Download</em></a>
         </td>
                          </tr>
              <tr>  
                 <td>
-            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> A First Course in Artificial Intelligence<br />    
+            <img alt="Under Maintenance" src="Image/A%20First%20Course%20in%20Artificial%20Intelligence.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> A First Course in Artificial Intelligence<br />    
             <a href="https://dl.tgxlink.eu.org/28516/TY_BSCIT_A_First_Course_in_Artificial_Intelligence_PDFDrive_.pdf?hash=AgADcg"><em>Download</em></a>
     </td>
     <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Red Hat Enterprise Linux 6 Administration<br />    
+        <img alt="Under Maintenance" src="Image/Red%20Hat%20Enterprise%20Linux%206%20Administration.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Red Hat Enterprise Linux 6 Administration<br />    
             <a href="https://dl.tgxlink.eu.org/28524/TY+BSCIT+Sybex.Red_.Hat_.Enterprise.Linux_.6.Administration.pdf?hash=AgADiA"><em>Download</em></a>
         </td>
             <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Linux Administration Beginners Guide<br />    
+        <img alt="Under Maintenance" src="Image/Linux%20Administration%20Beginners%20Guide.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Linux Administration Beginners Guide<br />    
             <a href="https://dl.tgxlink.eu.org/28530/TY_BSCIT_Linux_Administration_Beginners_Guide_5Ed_Wale_Soyinka_2008.pdf?hash=AgADgg"><em>Download</em></a>
         </td>
                          </tr>
              <tr>  
                 <td>
-            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Java EE 7 for Beginners<br />    
+            <img alt="Under Maintenance" src="Image/Java%20EE%207%20for%20Beginners.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Java EE 7 for Beginners<br />    
             <a href="https://dl.tgxlink.eu.org/28532/TY+BSCIT+Java+EE+7+for+Beginners+%28+PDFDrive+%29.pdf?hash=AgADgQ"><em>Download</em></a>
     </td>
     <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />Advanced Java programming<br />    
+        <img alt="Under Maintenance" src="Image/Advanced%20Java%20programming.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />Advanced Java programming<br />    
             <a href="https://dl.tgxlink.eu.org/28534/TY+BSCIT+Advanced+Java+programming+%28+PDFDrive+%29.pdf?hash=AgADdA"><em>Download</em></a>
         </td>
             <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />Practical MongoDB<br />    
+        <img alt="Under Maintenance" src="Image/Practical%20MongoDB.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />Practical MongoDB<br />    
             <a href="https://dl.tgxlink.eu.org/28536/TY_BSCIT_Practical_MongoDB_Architecting%2C_Developing%2C_and_Administering.pdf?hash=AgADhg"><em>Download</em></a>
         </td>
                          </tr>
              <tr>  
                 <td>
-            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />Beginning jQuery from the Basics of jQuery<br />    
+            <img alt="Under Maintenance" src="Image/Beginning%20jQuery%20from%20the%20Basics%20of%20jQuery.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />Beginning jQuery<br />    
             <a href="https://dl.tgxlink.eu.org/28542/TY_BSCIT_Beginning_jQuery_From_the_Basics_of_jQuery_to_Writing_your.pdf?hash=AgADeA"><em>Download</em></a>
     </td>
     <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Beginning JSON<br />    
+        <img alt="Under Maintenance" src="Image/Beginning%20JSON.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Beginning JSON<br />    
             <a href="https://dl.tgxlink.eu.org/28544/TY+BSCIT+Beginning+JSON+%28+PDFDrive+%29.pdf?hash=AgADeg"><em>Download</em></a>
         </td>
             <td>
-        <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Next Generation Databases<br />    
+        <img alt="Under Maintenance" src="Image/Next%20Generation%20Databases.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Next Generation Databases<br />    
             <a href="https://dl.tgxlink.eu.org/28546/TY_BSCIT_Next_Generation_Databases_NoSQL%2C_NewSQL%2C_and_Big_Data_What.pdf?hash=AgADhQ"><em>Download</em></a>
         </td>
                          </tr>
