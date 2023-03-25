@@ -6,8 +6,8 @@
 <head runat="server">
     <title></title>
 
-<style type="text/css">
-       .navbar {
+  <style type="text/css">
+    .navbar {
   overflow: hidden;
   background-color: #75d193;
   height:35px;
@@ -72,14 +72,20 @@
 .dropdown:hover .dropdown-content {
   display: block;
 }
+img {
+    width: 230px;
+    height: 285px;
+    line-height: 200px;
+    text-align: center;
+}
         #Button1 {
-            height: 21px;
-            width: 52px;
+                width: 30px;
+                background-color:green;
         }
         #Button2 {
-            width: 52px;
-            height: 21px;
-        }
+            width: 30px;
+             background-color:green;
+                   }
         #button {
             width: 52px;
             height: 21px;
@@ -98,29 +104,31 @@
         table {
             width:1300px;    
          }
+         td {
+    width:100px;
+
+    }
+      
         
         </style>
-</head>
-    
+    </head>
 <body style="height: 656px; background-color:lightblue;">
         <div style="height: 102px; font-family: 'Arial Black'; background-color: #63c132; margin-top: 0px;">
         <center style="height: 100px">
-            <a href="Home.aspx"><img alt="Please Wait" class="auto-style1" src="Image/logo1.png" /></a><br/>
+           <a href="Home.aspx"> <img alt="Please Wait" class="auto-style1" src="Image/logo1.png" /></a><br/>
             Reference Book of BCOM ,BMS ,BSCIT ,BBI And BAF <br />
             </center>
             
     <div class="navbar">
-  
- <a href="Home.aspx" style="font-size:11px">Home</a>
+      
+  <a href="Home.aspx" style="font-size:11px">Home</a>
           
-       
-
-  <div class="dropdown">
+         <div class="dropdown">
     <button class="dropbtn">FY
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-       <a href="First_Year">First Year</a>
+      <a href="First_Year">First Year</a>
       <a href="FY_BSCIT" >BSC IT</a>
       <a href="FY_BMS">BMS</a>
       <a href="FY_BCOM">BCOM</a>
@@ -129,12 +137,12 @@
     </div>
   </div> 
 
-          <div class="dropdown">
+  <div class="dropdown">
     <button class="dropbtn">SY
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-          <a href="Second_Year">Second Year</a>
+       <a href="Second_Year">Second Year</a>
          <a href="SY_BSCIT">BSC IT</a>
       <a href="SY_BMS">BMS</a>
       <a href="SY_BCOM">BCOM</a>
@@ -144,12 +152,12 @@
   </div> 
 
   <div class="dropdown">
-    <button class="dropbtn">TY
+    <button class="dropbtn">TY 
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
      <a href="Third_Year">Third Year</a>
-     <a href="TY_BSCIT">BSC IT</a>
+      <a href="TY_BSCIT">BSC IT</a>
       <a href="TY_BMS">BMS</a>
       <a href="TY_BCOM">BCOM</a>
       <a href="TY_BAF">BAF</a>
@@ -160,33 +168,47 @@
             
         <center><table>  <tr>  
                 <td>
-            <img alt="" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> DIGITAL ELECTRONICS<br />    
+            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />UPDATING!!<br />    
             <a href=""><em>Download</em></a>
     </td>
     <td>
-        <img alt="" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> DIGITAL ELECTRONICS<br />    
+       <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />UPDATING!!<br />    
             <a href=""><em>Download</em></a>
         </td>
             <td>
-        <img alt="" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> DIGITAL ELECTRONICS<br />    
+     <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />UPDATING!!<br />    
             <a href=""><em>Download</em></a>
         </td>
                          </tr>
-            <tr>  
+           <tr>  
                 <td>
-            <img alt="" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> DIGITAL ELECTRONICS<br />    
+            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />UPDATING!!<br />    
             <a href=""><em>Download</em></a>
     </td>
     <td>
-        <img alt="" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> DIGITAL ELECTRONICS<br />    
+       <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />UPDATING!!<br />    
             <a href=""><em>Download</em></a>
         </td>
             <td>
-        <img alt="" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> DIGITAL ELECTRONICS<br />    
+     <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />UPDATING!!<br />    
             <a href=""><em>Download</em></a>
         </td>
                          </tr>
-                </table></center>
+           <tr>  
+                <td>
+            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />UPDATING!!<br />    
+            <a href=""><em>Download</em></a>
+    </td>
+    <td>
+       <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />UPDATING!!<br />    
+            <a href=""><em>Download</em></a>
+        </td>
+            <td>
+     <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />UPDATING!!<br />    
+            <a href=""><em>Download</em></a>
+        </td>
+                         </tr>
+                </table>   </center>
          </div>
-                         </body>
-</html>
+  
+</body></html>

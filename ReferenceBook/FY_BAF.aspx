@@ -5,7 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title></title>
- <style type="text/css">
+   <style type="text/css">
     .navbar {
   overflow: hidden;
   background-color: #75d193;
@@ -71,14 +71,20 @@
 .dropdown:hover .dropdown-content {
   display: block;
 }
+img {
+    width: 230px;
+    height: 285px;
+    line-height: 200px;
+    text-align: center;
+}
         #Button1 {
-            height: 21px;
-            width: 52px;
+                width: 30px;
+                background-color:green;
         }
         #Button2 {
-            width: 52px;
-            height: 21px;
-        }
+            width: 30px;
+             background-color:green;
+                   }
         #button {
             width: 52px;
             height: 21px;
@@ -97,6 +103,11 @@
         table {
             width:1300px;    
          }
+         td {
+    width:100px;
+
+    }
+      
         
         </style>
     </head>
@@ -156,33 +167,48 @@
             
         <center><table>  <tr>  
                 <td>
-            <img alt="" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> DIGITAL ELECTRONICS<br />    
+            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />UPDATING!!<br />    
             <a href=""><em>Download</em></a>
     </td>
     <td>
-        <img alt="" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> DIGITAL ELECTRONICS<br />    
+       <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />UPDATING!!<br />    
             <a href=""><em>Download</em></a>
         </td>
             <td>
-        <img alt="" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> DIGITAL ELECTRONICS<br />    
+     <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />UPDATING!!<br />    
             <a href=""><em>Download</em></a>
         </td>
                          </tr>
-            <tr>  
+           <tr>  
                 <td>
-            <img alt="" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> DIGITAL ELECTRONICS<br />    
+            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />UPDATING!!<br />    
             <a href=""><em>Download</em></a>
     </td>
     <td>
-        <img alt="" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> DIGITAL ELECTRONICS<br />    
+       <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />UPDATING!!<br />    
             <a href=""><em>Download</em></a>
         </td>
             <td>
-        <img alt="" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> DIGITAL ELECTRONICS<br />    
+     <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />UPDATING!!<br />    
             <a href=""><em>Download</em></a>
         </td>
                          </tr>
-                </table></center>
+           <tr>  
+                <td>
+            <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />UPDATING!!<br />    
+            <a href=""><em>Download</em></a>
+    </td>
+    <td>
+       <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />UPDATING!!<br />    
+            <a href=""><em>Download</em></a>
+        </td>
+            <td>
+     <img alt="Under Maintenance" src="" style="float:left; height: 285px; width: 230px; margin-top: 0px" />UPDATING!!<br />    
+            <a href=""><em>Download</em></a>
+        </td>
+                         </tr>
+                </table>   </center>
          </div>
+  
 </body>
 </html>
