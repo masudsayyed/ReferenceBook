@@ -170,7 +170,7 @@ img {
         <center><table>  <tr>  
                 <td>
          <img alt="Under Maintenance" src="Image/Software%20project%20management.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM V <br/> Software Project Management<br />    
-            <a href="https://dl.tgxlink.eu.org/28493/TY+BSCIT+Software+Project+Management.pdf?hash=AgADhw"><em>Download</em></a>
+            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4138198/TY%20BSCIT%20Software%20Project%20Management.pdf"><em>Download</em></a>
     </td>
     <td>
          <img alt="Under Maintenance" src="Image/_Foundations_of_software_testing.png" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM VI <br/> Foundations of Software Testing<br />    
@@ -178,7 +178,7 @@ img {
         </td>
             <td>
          <img alt="Under Maintenance" src="Image/Internet%20of%20Things.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM V <br/> Internet of Things<br />    
-            <a href="https://dl.tgxlink.eu.org/28502/TY_BSCIT_dokumen_pub_internet_of_things_9352605225_9789352605224.pdf?hash=AgADfQ"><em>Download</em></a>
+            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4138175/TY_BSCIT_dokumen_pub_internet_of_things_9352605225_9789352605224.pdf"><em>Download</em></a>
         </td>
                          </tr>
             <tr>  
@@ -188,7 +188,7 @@ img {
     </td>
     <td>
        <img alt="Under Maintenance" src="Image/Designing%20The%20Internet%20of%20Things.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM V <br/> Designing The Internet of Things<br />    
-            <a href="https://dl.tgxlink.eu.org/28506/TY+BSCIT+Designing_the_Internet_of_Things.pdf?hash=AgADfA"><em>Download</em></a>
+            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4138173/TY%20BSCIT%20Designing_the_Internet_of_Things.pdf"><em>Download</em></a>
         </td>
             <td>
         <img alt="Under Maintenance" src="Image/principle%20of%20computer%20security.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM VI <br/> Principles of Computer Security: CompTIA Security+ and Beyond<br />    
@@ -198,7 +198,7 @@ img {
                         <tr>  
                 <td>
           <img alt="Under Maintenance" src="Image/Image%204.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM V <br/> Beginning asp.net 4.5 in C#<br />    
-            <a href="https://dl.tgxlink.eu.org/28508/TY+BSCIT+beginning_asp.net_4.5_in_C.pdf?hash=AgADew"><em>Download</em></a>
+            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4138172/TY%20BSCIT%20beginning_asp.net_4.5_in_C.pdf"><em>Download</em></a>
     </td>
     <td>
         <img alt="Under Maintenance" src="Image/Information_Security_The_Complete_Reference.png" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM VI <br/> The Complete Reference: Information Security <br />    
@@ -206,8 +206,9 @@ img {
         </td>
             <td>
           <img alt="Under Maintenance" src="Image/Image%205.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM V <br/> Murachs C# 2015<br />    
-            <a href="https://dl.tgxlink.eu.org/28512/TY+BSCIT+Murachs+C%23+2015.pdf?hash=AgADhA"><em>Download</em></a>
+            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4138178/TY%20BSCIT%20Murachs%20C%23%202015.pdf"><em>Download</em></a>
         </td>
+
                          </tr>
                 </table></center>
          </div>

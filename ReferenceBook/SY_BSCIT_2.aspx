@@ -171,40 +171,44 @@ img {
         <center><table>  <tr>  
                 <td>
             <img alt="Under Maintenance" src="Image/Murach's%20bEGINNING%20OF%20JAVA%20WITH%20NETBEANS.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />Murach's Beginning Java with NetBeans<br />    
-            <a href="https://dl.tgxlink.eu.org/28427/BSC_SEM_IV_Murach%27s_Beginning_Java_with_NetBeans_PDFDrive_.pdf?hash=AgADYw"><em>Download</em></a>
+            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4138264/BSC_SEM_IV_Murach%27s_Beginning_Java_with_NetBeans_PDFDrive_.pdf"><em>Download</em></a>
     </td>
     <td>
         <img alt="Under Maintenance" src="Image/Java%20The%20Complete%20Reference.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />Java: The Complete Reference<br />    
-            <a href="https://dl.tgxlink.eu.org/28443/BSC+SEM+IV+javabook.pdf?hash=AgADYg"><em>Download</em></a>
+            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4138268/BSC%20SEM%20IV%20javabook.pdf"><em>Download</em></a>
         </td>
             <td>
         <img alt="Under Maintenance" src="Image/Image%203.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Programming Embedded Systems in C and C++<br />    
-            <a href="https://dl.tgxlink.eu.org/28449/BSC_SEM_IV_Programming_Embedded_Systems_in_C_and_C_by_Michael_Barr.pdf?hash=AgADZw"><em>Download</em></a>
+            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4138266/BSC_SEM_IV_Programming_Embedded_Systems_in_C_and_C_by_Michael_Barr.pdf"><em>Download</em></a>
         </td>
                          </tr>
             <tr>  
                 <td>
             <img alt="Under Maintenance" src="Image/Mathematical%20Statistics.jpeg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Mathematical Statistics<br />    
-            <a href="https://dl.tgxlink.eu.org/28453/BSC_SEM_IV_pdfcoffee_com_mathematical_statistics_by_kapurjn_and.pdf?hash=AgADZg"><em>Download</em></a>
+            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4138265/BSC_SEM_IV_pdfcoffee_com_mathematical_statistics_by_kapurjn_and.pdf"><em>Download</em></a>
     </td>
     <td>
         <img alt="Under Maintenance" src="Image/Murray%20R%20Spiegel%20Statistics.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />Murray R Spiegel Statistics<br />    
-            <a href="https://dl.tgxlink.eu.org/28455/BSC_SEM_IV_Murray_R_Spiegel_Statistics_Fourth_Edition_PDFDrive_.pdf?hash=AgADZA"><em>Download</em></a>
+            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4138262/BSC_SEM_IV_Murray_R_Spiegel_Statistics_Fourth_Edition_PDFDrive_.pdf"><em>Download</em></a>
         </td>
             <td>
-        <img alt="Under Maintenance" src="Image/Software%20Engineering%20by%20ANKAJ%20JALOTE.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Software Engineering by ANKAJ JALOTE<br />    
-            <a href="https://dl.tgxlink.eu.org/28465/BSC_SEM_IV_Software_Engineering_by_PANKAJ_JALOTE_pdf_PDFDrive_.pdf?hash=AgADaA"><em>Download</em></a>
+        <img alt="Under Maintenance" src="Image/Software%20Engineering%20by%20ANKAJ%20JALOTE.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" /> Software Engineering by PANKAJ JALOTE<br />    
+            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4138267/BSC_SEM_IV_Software_Engineering_by_PANKAJ_JALOTE_pdf_PDFDrive_.pdf"><em>Download</em></a>
         </td>
                          </tr>
              <tr>  
                 <td>
             <img alt="Under Maintenance" src="Image/Software%20Engineering%20by%20Ian%20Sommervill.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />Software Engineering by Ian Sommerville<br />    
-            <a href="https://dl.tgxlink.eu.org/28467/BSC_SEM_IV_Software_Engineering_9th_Edition_by_Ian_Sommerville.pdf?hash=AgADaQ"><em>Download</em></a>
+            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4138269/BSC_SEM_IV_Software_Engineering_9th_Edition_by_Ian_Sommerville.pdf"><em>Download</em></a>
     </td>
     <td>
         <img alt="Under Maintenance" src="Image/Computer%20Graphics.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />Computer Graphics<br />    
-            <a href="https://dl.tgxlink.eu.org/28472/BSC_SEM_IV_Donald_Hearn%2C_M_Pauline_Baker_Computer_GraphicsBookFi.pdf?hash=AgADYQ"><em>Download</em></a>
+            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4138261/BSC_SEM_IV_Donald_Hearn%2C_M_Pauline_Baker_Computer_GraphicsBookFi.pdf"><em>Download</em></a>
         </td>
+                  <td>
+            <img alt="Under Maintenance" src="Image/Principles%20of%20Interactive%20Computer%20Graphics.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />Principles of Interactive Computer Graphics<br />    
+            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4138263/BSC%20SEM%20IV%20newman_sproul_princ_comp_graph.pdf"><em>Download</em></a>
+    </td>
                          </tr>
                 </table> <a href="SY_BSCIT.aspx"><input id="Button1" type="button" value="1"/></a>
                            <a href="SY_BSCIT_2.aspx"><input id="Button2" type="button" value="2"/></a></center>

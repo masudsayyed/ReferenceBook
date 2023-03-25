@@ -179,11 +179,11 @@ img {
             <tr>  
                 <td>
             <img alt="Under Maintenance" src="Image/Murach's%20bEGINNING%20OF%20JAVA%20WITH%20NETBEANS.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM IV <br/>Murach's Beginning Java With NetBeans<br />    
-            <a href="https://dl.tgxlink.eu.org/28427/BSC_SEM_IV_Murach%27s_Beginning_Java_with_NetBeans_PDFDrive_.pdf?hash=AgADYw"><em>Download</em></a>
+            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4138264/BSC_SEM_IV_Murach%27s_Beginning_Java_with_NetBeans_PDFDrive_.pdf"><em>Download</em></a>
     </td>
     <td>
         <img alt="Under Maintenance" src="Image/Software%20project%20management.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM V <br/> Software Project Management<br />    
-            <a href="https://dl.tgxlink.eu.org/28493/TY+BSCIT+Software+Project+Management.pdf?hash=AgADhw"><em>Download</em></a>
+            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4138198/TY%20BSCIT%20Software%20Project%20Management.pdf"><em>Download</em></a>
         </td>
             <td>
         <img alt="Under Maintenance" src="Image/Information_Security_The_Complete_Reference.png" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM VI <br/> The Complete Reference: Information Security <br />    
@@ -197,7 +197,7 @@ img {
     </td>
     <td>
          <img alt="Under Maintenance" src="Image/Computer%20Graphics.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM IV <br/>Computer Graphics<br />    
-            <a href="https://dl.tgxlink.eu.org/28472/BSC_SEM_IV_Donald_Hearn%2C_M_Pauline_Baker_Computer_GraphicsBookFi.pdf?hash=AgADYQ"><em>Download</em></a>
+            <a href="https://stream.url2go.in/st?api=af5e38dfaf8b900b45335173d279b44d7ae4b2e9&url=https://filelinkbotgo.herokuapp.com/4138261/BSC_SEM_IV_Donald_Hearn%2C_M_Pauline_Baker_Computer_GraphicsBookFi.pdf"><em>Download</em></a>
         </td>
             <td>
         <img alt="Under Maintenance" src="Image/Green%20Data%20Center%20Journey.jpg" style="float:left; height: 285px; width: 230px; margin-top: 0px" />SEM II <br /> Green Data Center Journey<br />    
