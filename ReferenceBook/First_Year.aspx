@@ -110,8 +110,8 @@ img {
         
         </style>
     </head>
-<body style="height: 656px; background-color:lightblue;">
-        <div style="height: 102px; font-family: 'Arial Black'; background-color: #63c132; margin-top: 0px;">
+<body style="height: 656px; background-color:lightblue; min-width:fit-content">
+        <div style="height: 102px; font-family: 'Arial Black'; background-color: #63c132; margin-top: 0px; min-width:100%">
         <center style="height: 100px">
            <a href="Home.aspx"> <img alt="Please Wait" class="auto-style1" src="Image/logo1.png" /></a><br/>
             Reference Book of BCOM ,BMS ,BSCIT ,BBI And BAF <br />
